@@ -1,16 +1,32 @@
-## Hi there 👋
+#Hey there! 👋 I'm Umme Hani
 
-<!--
-**ummehani132/ummehani132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Machine Learning Engineering Student | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate engineering student exploring the world of Artificial Intelligence, Machine Learning and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Learning Python, Java and Data Structures & Algorithms
+- 🤖 Exploring Machine Learning, Deep Learning and Generative AI
+- 🌱 Building projects and improving my technical skills
+- 📍 Bengaluru, India
+
+💻 Tech Stack
+
+Languages: Python | Java | HTML 
+
+Interests: Artificial Intelligence | Machine Learning | Deep Learning | Data Science
+
+🚀 Featured Projects
+
+- 🩺 MedExplain AI – Intelligent Medical Report Interpretation and Simplification Chatbot
+- 🐦 Bird Species Identifier
+- 🌍 Global Trekker
+- 🏠 House Price Prediction
+
+📫 Connect With Me
+
+- Email: umme83103@gmail.com
+
+---
+
+Learning something new every day. Building my future, one project at a time! ✨
