@@ -16,13 +16,6 @@ Languages: Python | Java | HTML
 
 Interests: Artificial Intelligence | Machine Learning | Deep Learning | Data Science
 
-🚀 Featured Projects
-
-- 🩺 MedExplain AI – Intelligent Medical Report Interpretation and Simplification Chatbot
-- 🐦 Bird Species Identifier
-- 🌍 Global Trekker
-- 🏠 House Price Prediction
-
 📫 Connect With Me
 
 - Email: umme83103@gmail.com
